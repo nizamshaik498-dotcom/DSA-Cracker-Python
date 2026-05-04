@@ -6,4 +6,4 @@ class Solution:
                 print("*",end="")
             print()
 sol=Solution()
-sol.pattern1(4)
+sol.pattern1(5)
