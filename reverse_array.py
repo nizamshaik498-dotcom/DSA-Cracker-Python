@@ -11,3 +11,5 @@ reverse=[]
 for i in range(len(colours)-1,-1,-1):
     reverse.append(colours[i])
 print("Loop reversed :",reverse)
+
+
