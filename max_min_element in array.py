@@ -6,3 +6,6 @@ b=print(min(arr1))
 print("The average of both maximum and minium elements: ",(max(arr1)+(min(arr1))/2))
 
 
+arr2=['apps','camera','ram','battery','webelling','privacy']
+print(max(arr2))
+print(min(arr2))
